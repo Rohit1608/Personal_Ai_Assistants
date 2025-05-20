@@ -1,6 +1,6 @@
 # Personal AI Assistants
 
-Welcome to the Personal AI Assistants project! This application allows users to select and interact with various AI assistants. Built with Next.js, it integrates theme management, Google OAuth authentication, and Convex backend services for a seamless user experience.
+Welcome to the Personal AI Assistants Project! This application allows users to select and interact with various AI assistants. Built with Next.js, it integrates theme management, Google OAuth authentication, and Convex backend services for a seamless user experience.
 
 ## 📸 Screenshots
 
